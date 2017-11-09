@@ -1,0 +1,14 @@
+{
+  "name": "angular-redux",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "3.3.0",
+    "typescript": "2.6.1"
+  },
+  "dependencies": {
+    "redux": "3.7.2"
+  }
+}
